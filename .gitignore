@@ -1,0 +1,4 @@
+sum.py
+*.pyc
+*.py.swo
+*.py.swp

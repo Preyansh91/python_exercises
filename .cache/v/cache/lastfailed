@@ -1,3 +1,9 @@
 {
-  "test_calc.py::test_calc_multiply": true
+  "test_calc.py::test_calc_multiply": true, 
+  "test_mydb.py::test_prey_id[cur1]": true, 
+  "test_mydb.py::test_prey_id[cur2]": true, 
+  "test_mydb.py::test_prey_id[expected_output]": true, 
+  "test_mydb.py::test_prey_id[test_input,expected_output]": true, 
+  "test_mydb.py::test_prey_id[test_input]": true, 
+  "test_param.py::TestOne::test_something": true
 }
